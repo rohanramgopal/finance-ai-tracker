@@ -1,0 +1,13 @@
+date,type,category,amount,description,payment_mode
+2026-04-01,Income,Salary,22000,salary credited,Bank Transfer
+2026-04-02,Expense,Food,450,swiggy dinner,UPI
+2026-04-03,Expense,Transport,1000,uber ride,UPI
+2026-04-04,Expense,Shopping,2200,amazon order,Card
+2026-04-05,Expense,Bills,800,electricity bill,UPI
+2026-04-06,Expense,Entertainment,499,netflix subscription,Card
+2026-04-07,Expense,Food,700,restaurant lunch,UPI
+2026-04-08,Expense,Health,1200,pharmacy purchase,Card
+2026-04-09,Expense,Travel,3500,train ticket,Card
+2026-04-10,Expense,Food,600,swiggy order,UPI
+2026-04-11,Expense,Entertainment,199,spotify subscription,UPI
+2026-04-20,Expense,Food,5000.0,swiggy,UPI
