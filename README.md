@@ -545,9 +545,14 @@ It also answers:
 “What happens if my expenses increase?”
 “What does my monthly CFO summary look like?”
 
-That makes it unique, memorable, and much more valuable in interviews and portfolio reviews.
+
 
 ---
+<img width="3024" height="1658" alt="image" src="https://github.com/user-attachments/assets/93afe39a-5061-402b-83e5-1b02c5b4fd4a" />
+<img width="3024" height="1654" alt="image" src="https://github.com/user-attachments/assets/988ec5ee-616e-43ec-a67f-6b6400837ebc" />
+<img width="3024" height="1140" alt="image" src="https://github.com/user-attachments/assets/50932137-1629-4e03-ab90-f0e157de4b9c" />
+<img width="3018" height="1646" alt="image" src="https://github.com/user-attachments/assets/b3b9b091-e94a-4d5b-ba8a-49e254011923" />
+
 
 👨‍💻 Author
 
