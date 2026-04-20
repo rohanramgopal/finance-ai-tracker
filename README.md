@@ -552,13 +552,13 @@ It also answers:
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/dashboard.png" width="45%">
-  <img src="assets/screenshots/analytics.png" width="45%">
+<img src="assets/screenshots/dashboard.png" width="45%">
+<img src="assets/screenshots/analytics.png" width="45%">
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/insights.png" width="45%">
-  <img src="assets/screenshots/features.png" width="45%">
+<img src="assets/screenshots/insights.png" width="45%">
+<img src="assets/screenshots/features.png" width="45%">
 </p>
 
 --- 
