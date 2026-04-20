@@ -548,10 +548,29 @@ It also answers:
 
 
 ---
-https://github.com/user-attachments/assets/93afe39a-5061-402b-83e5-1b02c5b4fd4a
-https://github.com/user-attachments/assets/988ec5ee-616e-43ec-a67f-6b6400837ebc
-https://github.com/user-attachments/assets/50932137-1629-4e03-ab90-f0e157de4b9c
-https://github.com/user-attachments/assets/b3b9b091-e94a-4d5b-ba8a-49e254011923
+---
+
+## 📸 Application Screenshots
+
+### 🧾 Dashboard Overview
+![Dashboard](https://github.com/user-attachments/assets/93afe39a-5061-402b-83e5-1b02c5b4fd4a)
+
+---
+
+### 📊 Expense Analytics & Charts
+![Analytics](https://github.com/user-attachments/assets/988ec5ee-616e-43ec-a67f-6b6400837ebc)
+
+---
+
+### 🤖 AI Insights & Smart Suggestions
+![Insights](https://github.com/user-attachments/assets/50932137-1629-4e03-ab90-f0e157de4b9c)
+
+---
+
+### 🎯 Goals, Subscriptions & Advanced Features
+![Features](https://github.com/user-attachments/assets/b3b9b091-e94a-4d5b-ba8a-49e254011923)
+
+---
 
 👨‍💻 Author
 
