@@ -557,7 +557,8 @@ It also answers:
 ![Insights](assets/screenshots/insights.png)
 ![Features](assets/screenshots/features.png)
 
---- 
+---
+
 👨‍💻 Author
 
 Rohan Ramgopal
