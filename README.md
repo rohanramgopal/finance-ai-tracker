@@ -549,16 +549,6 @@ It also answers:
 
 ---
 
-## 📸 Screenshots
-
-![Dashboard](assets/screenshots/dashboard.png)
-![Analytics](assets/screenshots/analytics.png)
-
-![Insights](assets/screenshots/insights.png)
-![Features](assets/screenshots/features.png)
-
----
-
 👨‍💻 Author
 
 Rohan Ramgopal
