@@ -64,6 +64,56 @@ This is built like a **real product**, not a tutorial clone.
 
 ---
 
+🏗️ Architecture Diagram
+
+flowchart TD
+
+A[User / Admin Browser] --> B[React Frontend]
+
+subgraph Frontend
+    B --> F1[Dashboard]
+    B --> F2[Add Transaction]
+    B --> F3[Analytics & Charts]
+    B --> F4[AI Insights]
+    B --> F5[Smart Suggestions]
+end
+
+B -->|REST API Calls| C[FastAPI Backend]
+
+subgraph Backend
+    C --> D1[Controllers]
+    D1 --> D2[Services Layer]
+
+    D2 --> S1[Transaction Service]
+    D2 --> S2[Insights Engine]
+    D2 --> S3[Anomaly Detection ML]
+    D2 --> S4[Budget Analyzer]
+end
+
+subgraph Data
+    E[(transactions.csv)]
+end
+
+S1 --> E
+S2 --> E
+S3 --> E
+S4 --> E
+
+E --> P[Pandas Processing Engine]
+
+P --> R1[Summary API]
+P --> R2[Insights API]
+P --> R3[Anomaly API]
+P --> R4[Budget API]
+
+R1 --> B
+R2 --> B
+R3 --> B
+R4 --> B
+
+---
+
+
 ## 🎯 Core Idea
 
 The goal of this project is to answer questions like:
