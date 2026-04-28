@@ -65,6 +65,7 @@ This is built like a **real product**, not a tutorial clone.
 ---
 
 🏗️ Architecture Diagram
+## 🏗️ Architecture Diagram
 
 ```mermaid
 flowchart TD
@@ -74,7 +75,7 @@ A[User / Admin Browser] --> B[React Frontend]
 subgraph Frontend
     B --> F1[Dashboard]
     B --> F2[Add Transaction]
-    B --> F3[Analytics & Charts]
+    B --> F3[Analytics and Charts]
     B --> F4[AI Insights]
     B --> F5[Smart Suggestions]
 end
@@ -92,7 +93,7 @@ subgraph Backend
 end
 
 subgraph Data
-    E[(transactions.csv)]
+    E[(transactions csv)]
 end
 
 S1 --> E
@@ -111,7 +112,8 @@ R1 --> B
 R2 --> B
 R3 --> B
 R4 --> B
-'''
+```
+
 
 ---
 
