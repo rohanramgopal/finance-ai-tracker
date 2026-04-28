@@ -66,6 +66,7 @@ This is built like a **real product**, not a tutorial clone.
 
 🏗️ Architecture Diagram
 
+'''mermaid 
 flowchart TD
 
 A[User / Admin Browser] --> B[React Frontend]
@@ -110,6 +111,7 @@ R1 --> B
 R2 --> B
 R3 --> B
 R4 --> B
+'''
 
 ---
 
